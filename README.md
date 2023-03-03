@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![:name](https://count.getloli.com/get/@:qq763253009)
+![:Augenestern-creator](https://count.getloli.com/get/@:qq763253009)
+![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qq763253009&layout=compact&theme=tokyonight)
 ![](url)
 ![](https://github-readme-stats.vercel.app/api?username=qq763253009&show_icons=true&theme=transparent)
