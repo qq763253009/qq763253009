@@ -11,4 +11,5 @@
 ![](url)
 ![](https://github-readme-stats.vercel.app/api?username=qq763253009&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/qq763253009/count.svg)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=qq763253009&theme=dracula) 
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=qq763253009&theme=dracula) 
+ -->
